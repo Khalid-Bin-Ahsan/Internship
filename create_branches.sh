@@ -1,5 +1,3 @@
-# Main branches
-git branch main
 git branch develop
 
 # Feature branches
