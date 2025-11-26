@@ -1,4 +1,5 @@
-git branch develop
+# Create development base branch
+git checkout -b develop
 
 # Feature branches
 git branch feature/ui-ux-design
@@ -18,6 +19,7 @@ git branch feature/testing
 git branch feature/deployment
 git branch feature/documentation
 
-# Release + Hotfix branches
+# Release / Hotfix branches
 git branch release/v1.0
 git branch hotfix/critical-fix
+
