@@ -1,0 +1,9 @@
+[33m9da36da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msahab[m[33m, [m[1;31morigin/sahab[m[33m)[m HEAD@{0}: checkout: moving from 12304ea0978d60591d89d51ff5c9b8655d4e766a to sahab
+[33m12304ea[m HEAD@{1}: commit: frontend
+[33m3201813[m HEAD@{2}: commit: added link route
+[33m5e64401[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: pull origin sahab --rebase (start): checkout 5e644012ebf1601a2b9f5987b28860ca83876c8a
+[33m9da36da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msahab[m[33m, [m[1;31morigin/sahab[m[33m)[m HEAD@{4}: checkout: moving from sahab to sahab
+[33m9da36da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msahab[m[33m, [m[1;31morigin/sahab[m[33m)[m HEAD@{5}: checkout: moving from sahab to sahab
+[33m9da36da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msahab[m[33m, [m[1;31morigin/sahab[m[33m)[m HEAD@{6}: checkout: moving from sahab to sahab
+[33m9da36da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msahab[m[33m, [m[1;31morigin/sahab[m[33m)[m HEAD@{7}: checkout: moving from sahab to sahab
+[33m9da36da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msahab[m[33m, [m[1;31morigin/sahab[m[33m)[m HEAD@{8}: commit (initial): navbar
